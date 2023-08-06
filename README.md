@@ -10,4 +10,6 @@
   
 **Week 5:** Got introduced to the Graph Attention Networks.  
   
-**Week 6 (ongoing):** Implementing practice notebooks of Graph Neural Networks and Graph Attention Networks.  
+**Week 6:** Implemented practice notebooks of Graph Neural Networks and Graph Attention Networks.  
+
+**Week 7 - Week 8:** Final Project
