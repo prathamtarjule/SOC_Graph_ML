@@ -12,4 +12,4 @@
   
 **Week 6:** Implemented practice notebooks of Graph Neural Networks and Graph Attention Networks.  
 
-**Week 7 - Week 8:** Final Project
+**Week 7 - Week 8:** Final Project - Social Recommendation System using Graph ML
